@@ -7,7 +7,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyupp95&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yupp95)</br>
 </br>
 프론트엔드와 백엔드 풀스텍을 공부하고 있는 진유빈입니다.</br>
-📧Email: jinyubin1933@naver.com
+📧Email: jinyubin1933@naver.com</br>
+🛠blog: https://yupp95.github.io/
 </br>
 
 📚**Tech Stack**📚</br>
