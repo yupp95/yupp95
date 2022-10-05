@@ -1,5 +1,11 @@
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=340&section=header&text=Hello%20World!&desc=Welcome%20to%20yupp's%20GitHub&fontSize=90&descSize=25&fontAlignY=37&descAlignY=57&fontColor=2c3e50)
+
+<div align="center">
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20render&animation=fadeIn&fontSize=90" />
+
+📚**Tech Stack**📚
+main use stack
 <!--
 **yupp95/yupp95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
