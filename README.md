@@ -1,3 +1,7 @@
+
+
+
+<!--
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=340&section=header&text=Hello%20World!&desc=Welcome%20to%20yupp's%20GitHub&fontSize=90&descSize=25&fontAlignY=37&descAlignY=57&fontColor=2c3e50)
@@ -36,6 +40,7 @@ tool to use</br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+-->
 
 
 
